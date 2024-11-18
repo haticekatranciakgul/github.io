@@ -56,6 +56,16 @@ const projectSlice = createSlice({
             url: "https://haticekatranciakgul.github.io/fintech/",
             favoriteCount: 0,
         },
+        {
+            id: 6,
+            title: "Lastfm Clone",
+            date: "11.2024",
+            image: "./lastfm.png",
+            description: "React",
+            avatar: "./as.png",
+            url: "https://haticekatranciakgul.github.io/lastfm/",
+            favoriteCount: 0,
+        },
         ],
     },
     reducers: {
